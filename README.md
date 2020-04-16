@@ -1,4 +1,4 @@
-TUTORIAL-Studio_Ghibli
+TUTORIAL-Studio_Ghibli_Tania_Rascia
 
 TUTORIAL BY Tania Rascia:
 https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
